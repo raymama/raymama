@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @raymama
+- 👀 I’m interested in GIS, Earth Engine, Python Coding, BIM, 3D Visualization, ... for now ;)
+- 🌱 I’m currently learning Python Coding and 3D Visualizations tools
+- 💞️ I’m looking to collaborate on Geo-Mapping
+- 📫 Reach me on ray.nandini5894@gmail.com
